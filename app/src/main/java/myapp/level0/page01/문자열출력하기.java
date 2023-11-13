@@ -1,4 +1,4 @@
-package myapp.level0;
+package myapp.level0.page01;
 
 import java.io.BufferedReader;
 import java.io.IOException;
